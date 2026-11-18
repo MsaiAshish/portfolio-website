@@ -69,7 +69,7 @@ Open `http://localhost:8000` in your browser.
 
 # Connect
 <p align="center">
-  <a href=" https://github.com/MsaiAshish">
+  <a href="https://github.com/MsaiAshish">
     <img src="https://skillicons.dev/icons?i=github#gh-dark-mode-only" />
   </a>
        <a href="https://www.linkedin.com/in/mallipudi-saiashish-541953177/">
