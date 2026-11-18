@@ -6,12 +6,6 @@ showcase a few of my projects. I am an AI student interested in
 artificial intelligence, computer vision and software development. I am
 always learning, experimenting and open to suggestions or feedback.
 
-`<br>`{=html}`<br>`{=html}
-
-![](https://ForTheBadge.com/images/badges/built-with-love.svg)
-
-`<br>`{=html}`<br>`{=html}
-
 [GitHub Repository](https://github.com/MsaiAshish/portfolio-website)
 
 ### features:
@@ -33,29 +27,24 @@ always learning, experimenting and open to suggestions or feedback.
 -   Google Fonts --- Instrument Sans
 
 # Preview
-
+[GitHub Repository](https://github.com/MsaiAshish/portfolio-website)
 The website includes the following sections:
 
 ## Home
-
-Introduction, profile picture and links to my work and contact details.
+![Introduction, profile picture and links to my work and contact details.](https://github.com/MsaiAshish/portfolio-website/blob/main/assets/images/image.png)
 
 ## About
-
-A short introduction, academic background and current interests.
+![A short introduction, academic background and current interests.](https://github.com/MsaiAshish/portfolio-website/blob/main/assets/images/about.png)
 
 ## Skills
-
-A list of technologies and areas I have been learning.
+![A list of technologies and areas I have been learning.](https://github.com/MsaiAshish/portfolio-website/blob/main/assets/images/skills.png)
 
 ## Projects
 
-A collection of selected projects, including a gesture-controlled
-Rubik's Cube, live face filters and AI experiments.
+![A collection of selected projects, including a gesture-controlled Rubik's Cube, live face filters and AI experiments.](https://github.com/MsaiAshish/portfolio-website/blob/main/assets/images/projects.png)
 
 ## Contact
-
-Links to my email, GitHub and LinkedIn, along with a contact form.
+![Links to my email, GitHub and LinkedIn, along with a contact form.](https://github.com/MsaiAshish/portfolio-website/blob/main/assets/images/contact.png)
 
 # Running locally
 
