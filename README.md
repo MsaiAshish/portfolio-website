@@ -67,12 +67,6 @@ python3 -m http.server 8000
 
 Open `http://localhost:8000` in your browser.
 
-### Contact form
-
-The contact form currently opens the visitor's default email
-application. Before using it, replace the placeholder `you@example.com`
-in `script.js` with your email address.
-
 # Connect
 
 -   [GitHub](https://github.com/MsaiAshish)
