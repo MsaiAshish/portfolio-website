@@ -72,3 +72,9 @@ Open `http://localhost:8000` in your browser.
 -   [GitHub](https://github.com/MsaiAshish)
 -   [LinkedIn](https://www.linkedin.com/in/mallipudi-saiashish-541953177/)
 -   [Email](mailto:xbsbxbxb54@gmail.com)
+       
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
