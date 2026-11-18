@@ -68,13 +68,14 @@ python3 -m http.server 8000
 Open `http://localhost:8000` in your browser.
 
 # Connect
-
--   [GitHub](https://github.com/MsaiAshish)
--   [LinkedIn](https://www.linkedin.com/in/mallipudi-saiashish-541953177/)
--   [Email](mailto:xbsbxbxb54@gmail.com)
-       
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  <a href="https://www.linkedin.com/in/mallipudi-saiashish-541953177/">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+       <a href="https://github.com/MsaiAshish">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+       <a href="mailto:xbsbxbxb54@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
