@@ -27,7 +27,6 @@ always learning, experimenting and open to suggestions or feedback.
 -   Google Fonts --- Instrument Sans
 
 # Preview
-[GitHub Repository](https://github.com/MsaiAshish/portfolio-website)
 The website includes the following sections:
 
 ## Home
