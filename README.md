@@ -69,10 +69,10 @@ Open `http://localhost:8000` in your browser.
 
 # Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/mallipudi-saiashish-541953177/">
+  <a href=" https://github.com/MsaiAshish">
     <img src="https://skillicons.dev/icons?i=github#gh-dark-mode-only" />
   </a>
-       <a href="https://github.com/MsaiAshish">
+       <a href="https://www.linkedin.com/in/mallipudi-saiashish-541953177/">
     <img src="https://skillicons.dev/icons?i=linkedin#gh-dark-mode-only" />
   </a>
        <a href="mailto:xbsbxbxb54@gmail.com">
