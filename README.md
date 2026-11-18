@@ -67,13 +67,6 @@ python3 -m http.server 8000
 
 Open `http://localhost:8000` in your browser.
 
-# Customisation
-
--   Replace `assets/images/profile.jpg` with your own profile picture.
--   Edit the text and links in `index.html`.
--   Change colours, spacing and layout in `style.css`.
--   Update theme and navigation behaviour in `script.js`.
-
 ### Contact form
 
 The contact form currently opens the visitor's default email
