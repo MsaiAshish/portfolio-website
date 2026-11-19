@@ -28,7 +28,7 @@ always learning, experimenting and open to suggestions or feedback.
 
 # Preview
 The website includes the following sections:
-![Live Preview](https://msaiashish.github.io/portfolio-website/)
+[Live Preview](https://msaiashish.github.io/portfolio-website/)
 
 ## Home
 ![Introduction, profile picture and links to my work and contact details.](https://github.com/MsaiAshish/portfolio-website/blob/main/assets/images/image.png)
